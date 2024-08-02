@@ -30,3 +30,21 @@ let toString = String(num)
 
 console.log(typeof toString);
 console.log(toString);
+
+
+// ****************************************OPERATIONS***************************************************//
+
+let value = 5
+let negvalue = -value
+console.log(value);
+console.log(negvalue);
+
+console.log("1"+ 2);
+console.log(1 + "2");
+console.log("1" + 2 + 2);
+console.log(1 + 2 + "2");
+
+console.log(+true);
+//console.log(true+); // Error
+
+let gameCounter = 100
